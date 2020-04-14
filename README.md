@@ -1,1 +1,1 @@
-Tecnologias utilizadas: String Boot, Spring MVC, Spring Data, MySQL, Hibernate e Thymeleaf
+Tecnologias utilizadas: String Boot, Spring MVC, Spring Data, MySQL, Hibernate, Thymeleaf e JQuery.
